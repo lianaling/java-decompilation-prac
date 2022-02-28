@@ -1,0 +1,16 @@
+Compiled from "Animal.java"
+public class Animal {
+  int age;
+  java.lang.String type;
+  java.lang.String name;
+  java.lang.String color;
+  public Animal();
+  public Animal(java.lang.String, int, java.lang.String, java.lang.String);
+  void asSleep();
+  void panic();
+  void hungry();
+  int getAge();
+  void setType(java.lang.String);
+  java.lang.String getType();
+  java.lang.String getName();
+}
